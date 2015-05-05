@@ -6,7 +6,7 @@ This repository contains **Dockerfile** of [PHP](http://php.net/) for [Docker](h
 
 ### Base Docker Image
 
-* [julienvincent/nginx](https://registry.hub.docker.com/u/julienvincent/composer/)
+* [julienvincent/composer](https://registry.hub.docker.com/u/julienvincent/composer/)
 
 
 ### Installation
