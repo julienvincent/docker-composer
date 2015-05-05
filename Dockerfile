@@ -9,6 +9,7 @@ RUN apt-get update -y && \
     curl \
     git \
     php5-mcrypt \
+    php5-curl \
     php5-gd
 
 RUN curl -sS https://getcomposer.org/installer | php
