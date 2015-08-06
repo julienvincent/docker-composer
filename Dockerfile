@@ -3,7 +3,7 @@
 FROM debian:jessie
 MAINTAINER "Julien Vincent" <julienlucvincent@gmail.com>
 
-ENV HHVM_VERSION 3.7.2~jessie
+ENV HHVM_VERSION 3.8.1~jessie
 
 RUN mkdir -p /data/www
 
